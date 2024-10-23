@@ -1,5 +1,8 @@
 # esp-oled-firebase-Integration
 0.91" inch OLED and a esp8266-12E, which is integrated to firebase to fetch text file and send and receive text message.
+Para hackear su calculadora Casio modelo fx-991MS, Neutrino aprovechó la ranura donde se asienta el pequeño panel solar que sirve para alimentar esta calculadora. 
+En su lugar, instaló un panel OLED que, apagado, tenía el mismo aspecto que la placa solar original. 
+Para que la calculadora siguiera funcionando, instaló una batería recargable y un módulo wifi ESP8266 ESP-12E
 
 ### Getting Started
 
